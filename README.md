@@ -18,15 +18,7 @@
 
 
 ### Spotify Playing 🎧
-[![Spotify](https://img.shields.io/badge/Spotify-Juice_WRLD_--_Lucid_Dreams-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/track/285pBv7MB0QW0K0Q9S9t1Y)
-
-<a href="https://open.spotify.com/track/285pBv7MB0QW0K0Q9S9t1Y">
-  <img src="https://i.scdn.co/image/ab67616d0000b273f704a29a061ef38f05167f1a" width="150" align="left" style="margin-right: 20px;" />
-  <h3>Lucid Dreams</h3>
-  <p>Juice WRLD</p>
-  <img src="https://raw.githubusercontent.com/AnuragHazra/github-readme-stats/master/themes/dark/audio-visualizer.gif" width="200" />
-</a>
-</a>
+[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/31iwhs5webvgiuomtcpykxr6hzaq?si)
 
 ---
 
