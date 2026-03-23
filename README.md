@@ -88,7 +88,7 @@ goal: Build impactful software solutions
 
 <div align="center">
   
-[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/31iwhs5webvgiuomtcpykxr6hzaq)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31eg3q3x5llgosu673k3yidx2lky&cover_image=true&theme=default&show_offline=false&background_color=000000&interchange=false&profanity=false&bar_color=3b22b4&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=31eg3q3x5llgosu673k3yidx2lky&redirect=true) 
 
 </div>
 
